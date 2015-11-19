@@ -1,4 +1,4 @@
-# react-flux-Rails
+# react-flux-rails [![Gem Version](https://badge.fury.io/rb/react-flux-rails.svg)](https://badge.fury.io/rb/react-flux-rails)
 
 react-flux-rails is a simple flux pattern javascript Gem for using in Rails framework.
 
