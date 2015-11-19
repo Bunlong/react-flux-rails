@@ -3,7 +3,8 @@ require "react/flux/rails/version"
 module React
   module Flux
     module Rails
-      # Your code goes here...
+      class Engine < ::Rails::Engine
+      end
     end
   end
 end
