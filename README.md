@@ -214,6 +214,6 @@ See the [flux-react documentation](https://github.com/christianalfoni/flux-react
 
 ## License
 
-[MIT License](http://www.opensource.org/licenses/mit-license.php)
+[MIT License](https://github.com/Bunlong/react-flux-rails/blob/master/LICENSE)
 
 Copyright (c) 2015, [Christian Alfoni](https://github.com/christianalfoni), [Bunlong VAN](https://github.com/Bunlong) ( Maintainer )
