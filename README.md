@@ -1,4 +1,4 @@
-# react-flux-rails [![Gem Version](https://badge.fury.io/rb/react-flux-rails.svg)](https://badge.fury.io/rb/react-flux-rails)
+# react-flux-rails [![Gem Version](https://badge.fury.io/rb/react-flux-rails.svg)](https://badge.fury.io/rb/react-flux-rails) [![Gem Total Downloads](https://img.shields.io/gem/dt/react-flux-rails.svg)](https://rubygems.org/gems/react-flux-rails)
 
 react-flux-rails is a simple flux pattern javascript Gem for using in Rails framework.
 
@@ -216,4 +216,4 @@ See the [flux-react documentation](https://github.com/christianalfoni/flux-react
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
 
-Copyright (c) 2015, [Christian Alfoni](https://github.com/christianalfoni), [Bunlong VAN (react-flux-rails Developer)](https://github.com/Bunlong)
+Copyright (c) 2015, [Christian Alfoni](https://github.com/christianalfoni), [Bunlong VAN (react-flux-rails Maintainer)](https://github.com/Bunlong)
